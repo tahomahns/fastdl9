@@ -1,0 +1,15 @@
+// overview description file for hnsru_oldtown01.bsp
+// Overview: Zoom 1.63, Map Origin (157.00, -256.00, 1088.00), Z Min 2337.00, Z Max -161.00, Rotated 1
+
+global 
+{
+	ZOOM	1.63
+	ORIGIN	157	-256	1088
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/hnsru_oldtown01.bmp"
+	HEIGHT	-161
+}

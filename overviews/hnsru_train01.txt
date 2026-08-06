@@ -1,0 +1,14 @@
+//Overview: Zoom 1.58, Map Origin (3.00, 155.00, -126.00), Z Min 528.00, Z Max -780.00, Rotated 1
+
+global 
+{
+	ZOOM	1.58
+	ORIGIN	3	155	-126
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/hnsru_train01.bmp"
+	HEIGHT	-780
+}

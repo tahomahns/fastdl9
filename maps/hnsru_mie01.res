@@ -1,0 +1,11 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+models/hnsru_mie/mie01.mdl
+models/hnsru_mie/fan01.mdl
+models/hnsru_mie/fan02.mdl
+models/hnsru_mie/gruz200.mdl
+sound/hnsru_mie/hnsru_mie1.wav

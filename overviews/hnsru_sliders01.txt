@@ -1,0 +1,15 @@
+// overview description file for hnsru_sliders01.bsp
+//	Overview: Zoom 2.80, Map Origin (0.00, 1536.00, 349.50), Z Min 1737.00, Z Max -1038.00, Rotated 0
+
+global 
+{
+	ZOOM	2.80
+	ORIGIN	0	1536	349.5
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/hnsru_sliders01.bmp"
+	HEIGHT	-1038
+}

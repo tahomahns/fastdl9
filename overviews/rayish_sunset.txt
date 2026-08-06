@@ -1,0 +1,14 @@
+// overview description file for rayish_sunset.bsp
+
+global
+{
+	ZOOM	2.78
+	ORIGIN	-1360.00   -1344.00   336.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/rayish_sunset.tga"
+	HEIGHT	-609.00
+}

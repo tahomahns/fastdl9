@@ -1,0 +1,14 @@
+// overview description file for rayish_brick-world.bsp
+
+global
+{
+	ZOOM	1.65
+	ORIGIN	1136.00	-736.00	-752.00
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/rayish_brick-world.tga"
+	HEIGHT	-481.00
+}

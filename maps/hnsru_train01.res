@@ -1,0 +1,16 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+sprites/flare1.spr
+sound/ambience/dog7.wav
+sound/ambience/wren1.wav
+sound/ambience/jetflyby1.wav
+sound/ambience/boomer.wav
+sound/ambience/flies.wav
+sound/ambience/dog6.wav
+sound/ambience/tankidle1.wav
+overviews/hnsru_train01.txt
+overviews/hnsru_train01.bmp

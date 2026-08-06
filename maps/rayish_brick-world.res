@@ -1,0 +1,11 @@
+models/rvphns/pi_fern.mdl
+gfx/env/cm-twildes_lf.tga
+gfx/env/cm-twildes_rt.tga
+gfx/env/cm-twildes_up.tga
+gfx/env/cm-twildes_bk.tga
+gfx/env/cm-twildes_dn.tga
+gfx/env/cm-twildes_ft.tga
+overviews/rayish_brick-world.tga
+overviews/rayish_brick-world.txt
+maps/rayish_brick-world.txt
+maps/rayish_brick-world.res

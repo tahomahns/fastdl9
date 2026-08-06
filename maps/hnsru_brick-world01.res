@@ -1,0 +1,11 @@
+gfx/env/cm-twildes_up.tga
+gfx/env/cm-twildes_dn.tga
+gfx/env/cm-twildes_lf.tga
+gfx/env/cm-twildes_rt.tga
+gfx/env/cm-twildes_ft.tga
+gfx/env/cm-twildes_bk.tga
+models/hnsru_brick-world/pi_fern.mdl
+models/hnsru_brick-world/pi_tree.mdl
+overviews/hnsru_brick-world01.bmp
+maps/hnsru_brick-world01.res
+overviews/hnsru_brick-world01.txt

@@ -1,0 +1,14 @@
+// overview description file for rayish_ruins.bsp
+
+global
+{
+	ZOOM	1.81
+	ORIGIN	-544.00 -1120.00 -480.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/rayish_ruins.tga"
+	HEIGHT	-1249.00
+}

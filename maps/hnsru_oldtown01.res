@@ -1,0 +1,9 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+models/hnsru_oldtown/pi_fern.mdl
+overviews/hnsru_oldtown01.txt
+overviews/hnsru_oldtown01.bmp

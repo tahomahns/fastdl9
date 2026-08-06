@@ -1,0 +1,10 @@
+gfx/env/desup.tga
+gfx/env/desdn.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desft.tga
+gfx/env/desbk.tga
+models/g0zi/palm1a.mdl
+models/g0zi/multipalm.mdl
+models/g0zi/grass4.mdl
+models/g0zi/grass2.mdl

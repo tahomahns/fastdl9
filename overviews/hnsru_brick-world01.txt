@@ -1,0 +1,15 @@
+// overview description file for hnsru_brick-world01.bsp
+//	Overview: Zoom 2.53, Map Origin (64.00, -272.00, 200.00), Z Min 841.00, Z Max -441.00, Rotated 0
+
+global 
+{
+	ZOOM	2.53
+	ORIGIN	64	-272		200
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/hnsru_brick-world01.bmp"
+	HEIGHT	-441
+}

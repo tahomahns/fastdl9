@@ -1,0 +1,15 @@
+gfx/env/2desertup.tga
+gfx/env/2desertdn.tga
+gfx/env/2desertlf.tga
+gfx/env/2desertrt.tga
+gfx/env/2desertft.tga
+gfx/env/2desertbk.tga
+models/pi_tree.mdl
+models/hnsru_flop/barrel_flop.mdl
+sound/ambience/birds4.wav
+sound/ambience/birds6.wav
+sound/ambience/sparrow.wav
+sound/ambience/birds9.wav
+sound/hnsru_floppytown/hnsru_flop01.wav
+overviews/hnsru_floppytown01.bmp
+overviews/hnsru_floppytown01.txt

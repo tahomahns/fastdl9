@@ -1,0 +1,15 @@
+maps/rayish_sunset.res
+maps/rayish_sunset.bsp
+maps/rayish_sunset.txt
+models/rvphns/halla_palmtree1.mdl
+models/rvphns/halla_palmtree1_mini.mdl
+models/rvphns/car_bombed.mdl
+models/rvphns/e4g1e_toyo.mdl
+gfx/env/hnsrvp_sky1_BK.tga
+gfx/env/hnsrvp_sky1_DN.tga
+gfx/env/hnsrvp_sky1_FT.tga
+gfx/env/hnsrvp_sky1_LF.tga
+gfx/env/hnsrvp_sky1_RT.tga
+gfx/env/hnsrvp_sky1_UP.tga
+overviews/rayish_sunset.tga
+overviews/rayish_sunset.txt

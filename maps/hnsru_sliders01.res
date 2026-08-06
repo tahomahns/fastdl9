@@ -1,0 +1,10 @@
+gfx/env/hnsru_hollow_up.tga
+gfx/env/hnsru_hollow_dn.tga
+gfx/env/hnsru_hollow_lf.tga
+gfx/env/hnsru_hollow_rt.tga
+gfx/env/hnsru_hollow_ft.tga
+gfx/env/hnsru_hollow_bk.tga
+models/hnsru_sliders/hnsru_pillar2.mdl
+models/hnsru_sliders/dyadya_shurik02.mdl
+models/hnsru_sliders/hnsru_rodeo1.mdl
+sound/hnsru_sliders/hnsru_sliders01.wav

@@ -1,0 +1,14 @@
+// Overview: Zoom 2.19, Map Origin (896.00, -439.00, 1008.00), Z Min 2353.00, Z Max -337.00, Rotated 1
+
+global 
+{
+	ZOOM	2.19
+	ORIGIN	896	-439	1008
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/hnsru_floppytown01.bmp"
+	HEIGHT	-337
+}

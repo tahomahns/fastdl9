@@ -1,0 +1,14 @@
+// overview description file for boost_lullabyland.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	0 	0	145
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/boost_lullabyland.bmp"
+	HEIGHT	-937
+}
