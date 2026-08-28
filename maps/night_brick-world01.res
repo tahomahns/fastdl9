@@ -1,0 +1,16 @@
+maps/night_brick-world01.bsp
+maps/night_brick-world01.res
+gfx/env/night_brick_bk.tga
+gfx/env/night_brick_dn.tga
+gfx/env/night_brick_ft.tga
+gfx/env/night_brick_lf.tga
+gfx/env/night_brick_rt.tga
+gfx/env/night_brick_up.tga
+models/bytahoma/bush14.mdl
+models/bytahoma/byka_bush2.mdl
+models/bytahoma/deglas3.mdl
+models/bytahoma/forge_tree1.mdl
+models/bytahoma/pi_fern.mdl
+sound/bytahoma/blueflames.wav
+sound/bytahoma/woolf.wav
+sprites/bytahoma/flames.spr
